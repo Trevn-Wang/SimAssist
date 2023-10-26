@@ -81,4 +81,4 @@ V7.0.4
 V7.0.5 2015-04-24
 1. Adjust some macro naming
 2. Refine layout feature, NeatenLine function
-3. Add TemporaryCurrentBlockBased function to handle the situation when infos like layout shall be retrieved from current block
+3. Add TemporaryCurrentBlockBased function to handle the situation when infos like layout shall be retrieved from current block.
